@@ -1,6 +1,7 @@
 package com.Array;
 
 
+
 //Count the number of even and odd elements in an array.
 public class CountEvenOddInArray {
 public static void main(String[] args) {
