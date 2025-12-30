@@ -1,9 +1,9 @@
 package com.Array;
 
 
+
+
 //Find the sum of all elements in an array.
-
-
 public class SumOfAllElements {
 public static void main(String[] args) {
 	int arr[]= {5,4,3,2,5};
