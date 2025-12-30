@@ -1,6 +1,8 @@
-
 package com.Array;
 import java.util.*;
+
+
+
 //Write a Java program to read and print elements of an integer array.
 public class ReadAndPrintArrayElements {
 public static void main(String[] args) {
