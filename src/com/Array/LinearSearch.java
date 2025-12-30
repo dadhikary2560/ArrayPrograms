@@ -1,6 +1,8 @@
 package com.Array;
 import java.util.*;
 
+
+
 //Search an element using linear search.
 public class LinearSearch {
 	public static void main(String[] args) {
