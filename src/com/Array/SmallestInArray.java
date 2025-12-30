@@ -1,6 +1,7 @@
 package com.Array;
 
 
+
 //Find the smallest element in an array.
 public class SmallestInArray {
 public static void main(String[] args) {
