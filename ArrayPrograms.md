@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 Write a Java program to read and print elements of an integer array.
 
 
@@ -39,6 +43,10 @@ Copy elements from one array to another.
 
 
 Find the average of array elements.
+
+
+
+
 
 
 
