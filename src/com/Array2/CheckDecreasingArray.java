@@ -1,6 +1,7 @@
 package com.Array2;
 
 
+
 //Program to check if an array is has decreasing elements
 public class CheckDecreasingArray {
 public static void main(String[] args) {
