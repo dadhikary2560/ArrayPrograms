@@ -1,6 +1,8 @@
 package com.Array2;
 
 
+
+
 //3. Find the first repeating element
 public class FindTheFirstRepeating {
 public static void main(String[] args) {
