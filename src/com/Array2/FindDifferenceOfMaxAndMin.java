@@ -1,6 +1,8 @@
 package com.Array2;
 
 
+
+
 //7. Find difference between max and min without sorting
 public class FindDifferenceOfMaxAndMin {
 public static void main(String[] args) {
