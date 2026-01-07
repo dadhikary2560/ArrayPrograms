@@ -1,6 +1,8 @@
 package com.Array2;
 
 
+
+
 //8. Print elements appearing exactly once
 public class ElementsAppearOnce {
 	public static void main(String[] args) {
