@@ -2,6 +2,7 @@ package com.Array2;
 
 
 
+
 //1. Count elements greater than the average of the array
 public class CountElementsGreaterThanAverage {
 public static void main(String[] args) {
