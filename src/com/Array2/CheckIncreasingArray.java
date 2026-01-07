@@ -2,6 +2,7 @@ package com.Array2;
 
 
 
+
 //Program to check if an array is has increasing elements
 public class CheckIncreasingArray {
 public static void main(String[] args) {
