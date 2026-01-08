@@ -1,6 +1,8 @@
 package com.Array2;
 
 
+
+
 //5. Replace each element with count of smaller elements
 public class ReplaceEachElementWithSmallerElementsCount {
 public static void main(String[] args) {
