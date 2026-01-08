@@ -1,6 +1,8 @@
 package com.Array2;
 
 
+
+
 //4. Find the last occurrence of a given number
 public class LastOccurenceOfAnElement {
 public static void main(String[] args) {
