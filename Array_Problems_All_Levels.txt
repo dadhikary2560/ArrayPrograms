@@ -1,0 +1,53 @@
+Array Programming Problems – All Difficulty Levels
+
+Level 1: Foundation
+
+1. Count elements greater than the average of the array
+2. Check if array is strictly increasing, decreasing, or neither
+3. Find the first repeating element
+4. Find the last occurrence of a given number
+5. Replace each element with count of smaller elements
+6. Check if array can be sorted by one swap
+7. Find difference between max and min without sorting
+8. Print elements appearing exactly once
+9. Rotate array right by 1 (no extra array)
+10. Count even-length subarrays
+
+Level 2: Intermediate
+
+1. Find all pairs with given difference K
+2. Check if subarray with sum zero exists
+3. Find smallest positive missing number
+4. Rearrange positive and negative alternately
+5. Find majority element (Boyer–Moore)
+6. Find maximum product subarray
+7. Count subarrays with sum divisible by K
+8. Minimum swaps to sort array
+9. Next greater element on right
+10. Longest subarray with equal 0s and 1s
+
+Level 3: Advanced
+
+1. Find all leaders in the array
+2. Maximum circular subarray sum
+3. Count inversions using merge sort
+4. Find k-th smallest element without sorting
+5. Longest bitonic subarray
+6. Minimum increasing subsequences
+7. Minimum length subarray with sum ≥ K
+8. Triplets with sum zero
+9. Max length subarray with at most K distinct elements
+10. Partition array into equal sum subsets
+
+Level 4: Expert
+
+1. Median of two sorted arrays
+2. Sliding window maximum using deque
+3. Maximum sum rectangle in 2D array
+4. Longest arithmetic progression
+5. Smallest subarray which if sorted sorts the array
+6. Subarrays with product less than K
+7. Range queries using prefix sum / sparse table
+8. Minimum cost to make all elements equal
+9. Maximum XOR subarray
+10. Mo’s Algorithm for range queries
