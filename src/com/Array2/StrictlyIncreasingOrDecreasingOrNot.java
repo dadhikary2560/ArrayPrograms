@@ -2,6 +2,8 @@ package com.Array2;
 
 
 
+
+
 //2. Check if array is strictly increasing, decreasing, or neither
 public class StrictlyIncreasingOrDecreasingOrNot {
 public static void main(String[] args) {
